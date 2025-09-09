@@ -19,6 +19,7 @@ return {
         "intelephense", -- PHP
         "emmet-ls", -- Snippets HTML/CSS
         "marksman",
+        "shopify-cli",
 
         -- Formatters
         "prettier",
